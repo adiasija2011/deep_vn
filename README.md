@@ -1,6 +1,4 @@
-Here's a draft for the README file based on the provided information:
 
----
 
 # Deep VN
 
